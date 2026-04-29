@@ -1,8 +1,10 @@
-Miniguia de Estudos: Cibersegurança em Sistemas Industriais (OT) 
+🧩Miniguia de Estudos: Cibersegurança em Sistemas Industriais (OT) 
 
 Este projeto foi desenvolvido como parte de um desafio da DIO, utilizando o NotebookLM da Google como ferramenta de aprendizagem ativa para explorar a proteção de infraestruturas críticas. 
 
-🎯 Contexto e Objetivos 
+
+
+🎯 Contexto e Objetivos
 
 O objetivo deste caderno temático é compreender como proteger ambientes de Tecnologia Operacional (OT), onde a segurança física (safety) e a continuidade da produção são as prioridades máximas. 
 
@@ -16,11 +18,11 @@ Meta: Consolidar conhecimentos sobre as normas NIST SP 800-82 e IEC 62443.
 
 As fontes utilizadas para alimentar o NotebookLM foram: 
 
-NIST SP 800-82 Rev. 3: Link para o PDF Oficial (Guia de Segurança para Sistemas de Controle Industrial). 
+NIST SP 800-82 Rev. 3: ["https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf"]. (Guia de Segurança para Sistemas de Controle Industrial). 
 
-ISA/IEC 62443 (Visão Geral): Link para o resumo da ISA (Normas para segurança de automação). 
+ISA/IEC 62443 (Visão Geral): ["https://www.isa.org/standards-and-publications/isa-standards/intech-magazine/2018/august/the-isa-iec-62443-series-of-standards"] (Normas para segurança de automação). 
 
-Kaspersky ICS-CERT: Link para o Portal de Ameaças (Relatórios de ataques reais em fábricas). 
+Kaspersky ICS-CERT: ["https://ics-cert.kaspersky.com"] (Relatórios de ataques reais em fábricas). 
 
  
 
